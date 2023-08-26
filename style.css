@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 body {
-    background-image: url("tino-rischawy-PxdB5pJFBoA-unsplash.jpg");
+    background-image: url("photo-1551554781-c46200ea959d.avif");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: bold;
     text-align: center;
 }
@@ -22,7 +23,6 @@ button {
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #fff;
     font-weight: bold;
     width: 200px;
     margin-bottom: 5px;
@@ -40,5 +40,4 @@ button {
 
 #save-btn {
     background: green;
-    color: #fff;
 }
