@@ -6,6 +6,8 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     text-align: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 h1 {
